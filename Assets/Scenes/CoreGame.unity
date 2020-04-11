@@ -1367,7 +1367,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68d7bff56c4cc1947b59092d51698e3b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  max: 100
+  max: 1000
   min: 0
   guessText: {fileID: 1490219252}
 --- !u!4 &1136393097
